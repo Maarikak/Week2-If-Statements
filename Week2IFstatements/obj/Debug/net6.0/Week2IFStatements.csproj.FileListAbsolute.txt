@@ -1,0 +1,14 @@
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net6.0\Week2IFStatements.exe
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net6.0\Week2IFStatements.deps.json
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net6.0\Week2IFStatements.runtimeconfig.json
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net6.0\Week2IFStatements.dll
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net6.0\Week2IFStatements.pdb
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\Week2IFStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\Week2IFStatements.AssemblyInfoInputs.cache
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\Week2IFStatements.AssemblyInfo.cs
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\Week2IFStatements.csproj.CoreCompileInputs.cache
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\Week2IFStatements.dll
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\refint\Week2IFStatements.dll
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\Week2IFStatements.pdb
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\Week2IFStatements.genruntimeconfig.cache
+C:\Users\Maarika\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net6.0\ref\Week2IFStatements.dll
